@@ -34,9 +34,10 @@ WE-Meet을 통해 Dareesoft에서 연구 인턴으로 함께했습니다. Darees
 
 ## 2️⃣ Role
 
-|<img src="https://github.com/user-attachments/assets/bef1a11a-d69d-440a-9ed5-7c8f39548c5a" width="150" height="150"/>|<img src="https://github.com/user-attachments/assets/f9323ec6-0bfa-4dba-8589-4abb0948f2b7" width="150" height="150"/>|
-|:-:|:-:|
-|Jeong GangHyeon<br/>[@JUGAHY](https://github.com/JUGAHY)|Jang DaeHyeon<br/>[@JangDaeHyeon](https://github.com/JangDaeHyeon)|
+|<img src="https://github.com/user-attachments/assets/bef1a11a-d69d-440a-9ed5-7c8f39548c5a" width="150" height="150"/>|<img src="https://github.com/user-attachments/assets/f9323ec6-0bfa-4dba-8589-4abb0948f2b7" width="150" height="150"/>|<img src="https://github.com/user-attachments/assets/b41aa09c-a7bc-46b4-875c-e5b6ed2a52e2" width="150" height="150"/>|
+|:-:|:-:|:-:|
+|Jeong GangHyeon<br/>[@JUGAHY](https://github.com/JUGAHY)|Jang DaeHyeon<br/>[@JangDaeHyeon](https://github.com/JangDaeHyeon)|Oh YuRim<br/>[@Masterjun12](https://github.com/Masterjun12)|
+
 
 ### Jeong GangHyeon
 * Model for lane damage evaluation(vgg16, Resnet-18, Mobilenet V3 Large, Mobilenet V3 Small)
